@@ -1,0 +1,23 @@
+Failed case #1/44: Cannot check answer. Perhaps output format is wrong.
+
+Input:
+3
+ATAGA
+ATC
+GAT
+
+Your output:
+['ATAGA', 'ATC', 'GAT']
+
+Correct output:
+0->1:A
+0->7:G
+1->2:T
+2->3:A
+2->6:C
+3->4:G
+4->5:A
+7->8:A
+8->9:T
+
+ (Time used: 0.04/2.00, memory used: 8556544/536870912.)
